@@ -1,16 +1,28 @@
-### Hi there 👋
+### Hi there 👋, Welcome to my Github profile . . .
 
-<!--
-**rak3n/rak3n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently pursuing B.Tech. in Computer Scence and Engineering.
+- Like to develop 🔧 crazy and amazing stuffs.
+- Web 🌐 is what I like the most , but Tech is my preference.
+- And, I am a CP enthusiast.
 
-Here are some ideas to get you started:
+- 📫 How to reach me:
+  * Email: rishabh.verma0901@gmail.com
+  * Linkedin: https://www.linkedin.com/in/rishabh-kumar-verma-rak3n/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ My life :
+``` 
+def life():
+    day=1
+    while 1:
+        eat()
+        sleep()
+        
+        if day%7==1:
+            enjoy()
+            day=0
+        else:
+            code()
+        
+        day+=1
+life()
+```
