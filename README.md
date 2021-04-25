@@ -14,6 +14,7 @@
 <p align="left">
 <a href="https://linkedin.com/in//rishabh-kumar-verma-rak3n/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="rak3n" height="30" width="auto" /></a>
 <a href="https://www.codechef.com/users/kumar_rishbah" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="kumar_rishbah" height="30" width="40" /></a>
+https://cp-logo.vercel.app/codechef/kumar_rishbah
 </p>
 
 <h3 align="left">Languages and Frameworks:</h3>
@@ -65,10 +66,6 @@
  <a href="https://azure.microsoft.com/en-in/" target="_blank">
   <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
  </a> 
- </p>
- 
- 
- <p align="left">
  <a href="https://postman.com" target="_blank"> 
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
  </a> 
