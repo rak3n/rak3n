@@ -14,7 +14,7 @@
 <p align="left">
 <a href="https://linkedin.com/in//rishabh-kumar-verma-rak3n/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="rak3n" height="30" width="auto" /></a>
 <a href="https://www.codechef.com/users/kumar_rishbah" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="kumar_rishbah" height="30" width="40" /></a>
-https://cp-logo.vercel.app/codechef/kumar_rishbah
+<img src="https://cp-logo.vercel.app/codechef/kumar_rishbah"/>
 </p>
 
 <h3 align="left">Languages and Frameworks:</h3>
