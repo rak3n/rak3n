@@ -8,10 +8,10 @@
 
 - Web 🌐 is what I like the most , but Tech is my preference **but Tech is my preference**
 
-- 📫 How to reach me **rishabh.verma0901@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="mailto:rishabh.verma0901@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="rak3n" height="30" width="auto" /></a>
 <a href="https://linkedin.com/in//rishabh-kumar-verma-rak3n/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="rak3n" height="30" width="auto" /></a>
 <a href="https://www.codechef.com/users/kumar_rishbah" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="kumar_rishbah" height="30" width="40" /></a>
 <img src="https://cp-logo.vercel.app/codechef/kumar_rishbah"/>
@@ -101,10 +101,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rak3n" alt="rak3n" /></a> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rak3n&label=Profile%20views&color=0e75b6&style=flat" alt="rak3n" /> </p>
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rak3n&show_icons=true&locale=en&layout=compact" alt="rak3n" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rak3n&show_icons=true&locale=en" alt="rak3n" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rak3n&" alt="rak3n" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rak3n&label=Profile%20views&color=0e75b6&style=flat" alt="rak3n" /> </p>
