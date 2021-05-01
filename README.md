@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rishabh Kumar</h1>
+<h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Rishabh Kumar</h1>
 <h3 align="center">A full stack web developer.</h3>
 
 - 🔭 I’m currently pursuing **B.Tech. in Computer Scence and Engineering**
