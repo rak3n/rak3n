@@ -6,7 +6,7 @@
 
 - Like to develop 🔧 crazy and amazing stuffs.
 
-- Web 🌐 is what I like the most , but Tech is my preference **but Tech is my preference**
+- Web 🌐 is what I like the most , **but Tech is my preference**
 
 
 <h3 align="left">Connect with me:</h3>
