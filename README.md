@@ -1,12 +1,15 @@
 <h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Rishabh</h1>
-<h3 align="center">A full stack web developer.</h3>
+<h3 align="center">A full stack developer from India.</h3>
 
-- 🔭 I’m currently pursuing **B.Tech. in Computer Scence and Engineering**
+## 👨‍💻 About Me
 
+- 🔭 Completed **B.Tech. in Computer Science and Engineering** in 2022.
 
-- Like to develop 🔧 crazy and amazing stuffs.
+- 🚀 Currently a Software Development Engineer at [Prodigal](https://www.prodigaltech.com/).
 
-- Web 🌐 is what I like the most , **but Tech is my preference**
+- 🔧 Passionate about developing crazy and amazing stuff.
+
+- 🌐 Enthusiastic about all things web, but **Tech is my ultimate preference**.
 
 
 <h3 align="left">Connect with me:</h3>
@@ -32,6 +35,9 @@
  <a href="https://www.w3schools.com/cpp/" target="_blank"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
  </a> 
+ <a href="https://www.w3.org/html/" target="_blank"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+ </a> 
  <a href="https://www.w3schools.com/css/" target="_blank"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
  </a> 
@@ -43,9 +49,6 @@
  </a>
  <a href="https://expressjs.com" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
- </a> 
- <a href="https://www.djangoproject.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> 
  </a> 
  <a href="https://flask.palletsprojects.com/" target="_blank"> 
   <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> 
@@ -59,12 +62,6 @@
  </a>
  <a href="https://firebase.google.com/" target="_blank"> 
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
- </a> 
- <a href="https://cloud.google.com" target="_blank"> 
-  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
- </a>
- <a href="https://azure.microsoft.com/en-in/" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
  </a> 
  <a href="https://postman.com" target="_blank"> 
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
@@ -85,9 +82,6 @@
  
  
  <p align="left">
- <a href="https://www.w3.org/html/" target="_blank"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
- </a> 
  <a href="https://www.mongodb.com/" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
  </a> 
